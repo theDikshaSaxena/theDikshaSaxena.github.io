@@ -1,0 +1,85 @@
+{
+    "events": [
+      {
+        "start_date": {
+          "year": "2016"
+        },
+        "end_date": {
+            "year": "2020"
+          },
+        "text": {
+          "headline": "Bachelor's Degree",
+          "text": "Computer Science\nGPA: 9.09/10.00 (Top 1 Percentile)"
+        },
+        "media": {
+          "url": "../images/vit.png",
+          "caption": "VIT Logo"
+        }
+      },
+      {
+        "start_date": {
+          "year": "2020"
+        },
+        "end_date": {
+          "year": "2022"
+        },
+        "text": {
+          "headline": "Work Experience",
+          "text": "Associate Developer at IBM\nOct 2020 - Jul 2022"
+        },
+        "media": {
+          "url": "../images/ibm.png",
+          "caption": "IBM Logo"
+        }
+      },
+      {
+        "start_date": {
+          "year": "2022"
+        },
+        "end_date": {
+            "year": "2023"
+          },
+        "text": {
+          "headline": "Master's Degree",
+          "text": "Computer Science\nGPA: 3.70/4.00"
+        },
+        "media": {
+          "url": "../images/ub.png",
+          "caption": "University Icon"
+        }
+      },
+      {
+        "start_date": {
+          "year": "2023"
+        },
+        "end_date": {
+          "year": "2023"
+        },
+        "text": {
+          "headline": "Internship",
+          "text": "Solutions Architect\nJun 2023 - Oct 2023"
+        },
+        "media": {
+          "url": "../images/brainchip.png",
+          "caption": "Brainchip Logo"
+        }
+      },
+      {
+        "start_date": {
+          "year": "2023"
+        },
+        "end_date": {
+          "year": "2023"
+        },
+        "text": {
+          "headline": "Research Aide",
+          "text": "Generative AI and Misinformation Spread\nJun 2023 - Dec 2023"
+        },
+        "media": {
+          "url": "../images/research.png",
+          "caption": "SUNY RF Logo"
+        }
+      }
+    ]
+  }
+  
